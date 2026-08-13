@@ -2,7 +2,7 @@
 
 # 1337party
 
-### Open to freelance
+### Ready to develop your project
 
 ![Followers](https://img.shields.io/github/followers/1337party?label=followers&style=flat&color=blue)
 ![Stars](https://img.shields.io/github/stars/1337party?label=stars&style=flat&color=blue)
@@ -14,11 +14,11 @@
 
 ## About Me
 
-Short bio about who you are, what you build, and what you're into.
+i am a game developer for remakes (Da Hood)
 
-- Studying / working on X
-- Taking freelance clients
-- Always building something new
+- Game Developer With Experience
+- Always Available For Work
+- Ready To Work Anytime
 
 ---
 
