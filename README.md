@@ -2,7 +2,7 @@
 
 # 1337party
 
-### Ready to develop your project
+### Open to freelance
 
 ![Followers](https://img.shields.io/github/followers/1337party?label=followers&style=flat&color=blue)
 ![Stars](https://img.shields.io/github/stars/1337party?label=stars&style=flat&color=blue)
@@ -31,9 +31,8 @@ i am a game developer for remakes (Da Hood)
 
 ---
 
-## GitHub Stats
+## Contact
 
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=1337party&show_icons=true&theme=dark&hide_border=true)
-![Streak Stats](https://streak-stats.demolab.com/?user=1337party&theme=dark&hide_border=true)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1485916076452745256)
 
 </div>
