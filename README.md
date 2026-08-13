@@ -2,7 +2,7 @@
 
 # 1337party
 
-### Open to freelance
+### Developer For Games
 
 ![Followers](https://img.shields.io/github/followers/1337party?label=followers&style=flat&color=blue)
 ![Stars](https://img.shields.io/github/stars/1337party?label=stars&style=flat&color=blue)
