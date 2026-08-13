@@ -1,1 +1,44 @@
-# partytillyoux_x
+<div align="center">
+
+# 1337party
+
+### Open to freelance
+
+![Followers](https://img.shields.io/github/followers/1337party?label=followers&style=flat&color=blue)
+![Stars](https://img.shields.io/github/stars/1337party?label=stars&style=flat&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=1337party&color=blue&style=flat&label=profile+views)
+
+</div>
+
+---
+
+## About Me
+
+Short bio about who you are, what you build, and what you're into.
+
+- Studying / working on X
+- Taking freelance clients
+- Always building something new
+
+---
+
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=1337party&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337party&layout=compact&theme=dark&hide_border=true)
+
+</div>
