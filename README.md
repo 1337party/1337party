@@ -34,7 +34,6 @@ i am a game developer for remakes (Da Hood)
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=1337party&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=1337party&layout=compact&theme=dark&hide_border=true)
 ![Streak Stats](https://streak-stats.demolab.com/?user=1337party&theme=dark&hide_border=true)
 
 </div>
