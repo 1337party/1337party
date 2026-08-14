@@ -16,9 +16,10 @@
 
 ## About Me
 
-developer for Remakes
+Game developer specializing in Roblox remakes
 
-- Developer With Experience
+- Developer with hands-on project experience
+- Focused on clean, performant code
 - Always working on something new
 
 ---
