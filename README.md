@@ -1,37 +1,44 @@
 <div align="center">
-
-# 1337party
-
+# [Partytillyoux_x](https://github.com/1337party)
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&height=40&duration=2000&lines=Taking+freelance+clients;Open+to+freelance+opportunities)](https://git.io/typing-svg)
+ 
 ### Open to freelance opportunities
-
-![Followers](https://img.shields.io/github/followers/1337party?label=followers&style=flat&color=blue)
-![Stars](https://img.shields.io/github/stars/1337party?label=stars&style=flat&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=1337party&color=blue&style=flat&label=profile+views)
-
+ 
+<img src="https://img.shields.io/github/followers/yourusername?label=followers&style=flat&color=blue" />
+<img src="https://img.shields.io/github/stars/yourusername?label=stars&style=flat&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=profile+views&color=blue&style=flat" />
 </div>
-
 ---
-
+ 
 ## About Me
-
-Game developer for remakes (Da Hood)
-
+ 
+Software developer for [what you build] ([your niche/project])
+ 
 - Developer With Experience
 - Always working on something new
-
 ---
-
+ 
 ## Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
+ 
+<div align="center">
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-## Contact
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1485916076452745256)
-
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
 </div>
+---
+ 
+## Contact
+ 
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourdiscordid)
