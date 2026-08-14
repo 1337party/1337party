@@ -5,9 +5,7 @@
 ### Open to freelance opportunities
 
 ![Followers](https://img.shields.io/github/followers/1337party?label=followers&style=flat&color=blue)
-
 ![Stars](https://img.shields.io/github/stars/1337party?label=stars&style=flat&color=blue)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=1337party&color=blue&style=flat&label=profile+views)
 
 </div>
