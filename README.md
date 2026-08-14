@@ -1,14 +1,14 @@
 <div align="center">
 
-# [Your Name](https://github.com/yourusername)
+# [partytillyoux_x](https://github.com/1337party)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&height=40&duration=2000&lines=Taking+freelance+clients;Open+to+freelance+opportunities)](https://git.io/typing-svg)
 
 ### Open to freelance opportunities
 
-<img src="https://img.shields.io/github/followers/yourusername?label=followers&style=flat&color=blue" />
-<img src="https://img.shields.io/github/stars/yourusername?label=stars&style=flat&color=blue" />
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=profile+views&color=blue&style=flat" />
+<img src="https://img.shields.io/github/followers/1337party?label=followers&style=flat&color=blue" />
+<img src="https://img.shields.io/github/stars/1337party?label=stars&style=flat&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=1337party&label=profile+views&color=blue&style=flat" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-Software developer for [what you build] ([your niche/project])
+developer for Remakes
 
 - Developer With Experience
 - Always working on something new
