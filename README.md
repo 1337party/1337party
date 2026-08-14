@@ -1,44 +1,50 @@
 <div align="center">
-# [Partytillyoux_x](https://github.com/1337party)
- 
+
+# [Your Name](https://github.com/yourusername)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&height=40&duration=2000&lines=Taking+freelance+clients;Open+to+freelance+opportunities)](https://git.io/typing-svg)
- 
+
 ### Open to freelance opportunities
- 
+
 <img src="https://img.shields.io/github/followers/yourusername?label=followers&style=flat&color=blue" />
 <img src="https://img.shields.io/github/stars/yourusername?label=stars&style=flat&color=blue" />
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=profile+views&color=blue&style=flat" />
+
 </div>
+
 ---
- 
+
 ## About Me
- 
+
 Software developer for [what you build] ([your niche/project])
- 
+
 - Developer With Experience
 - Always working on something new
+
 ---
- 
+
 ## Tech Stack
- 
+
 <div align="center">
+
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
+
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
- 
+
 </div>
+
 ---
- 
+
 ## Contact
- 
+
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourdiscordid)
