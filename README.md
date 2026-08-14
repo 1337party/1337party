@@ -4,9 +4,9 @@
 
 ### 16 y/o — Country ↔ Country
 
-![followers](https://img.shields.io/github/followers/yourusername?label=followers&style=flat&color=blue)
-![stars](https://img.shields.io/github/stars/yourusername?label=stars&style=flat&color=blue)
-![profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![followers](https://img.shields.io/github/followers/1337party?label=followers&style=flat&color=blue)
+![stars](https://img.shields.io/github/stars1337party?label=stars&style=flat&color=blue)
+![profile views](https://komarev.com/ghpvc/?username1337party&color=blue)
 
 </div>
 
