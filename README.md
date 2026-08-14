@@ -2,11 +2,13 @@
 
 # 1337party
 
-### 16 y/o — Country ↔ Country
+### Open to freelance opportunities
 
-![followers](https://img.shields.io/github/followers/1337party?label=followers&style=flat&color=blue)
-![stars](https://img.shields.io/github/stars1337party?label=stars&style=flat&color=blue)
-![profile views](https://komarev.com/ghpvc/?username1337party&color=blue)
+![Followers](https://img.shields.io/github/followers/1337party?label=followers&style=flat&color=blue)
+
+![Stars](https://img.shields.io/github/stars/1337party?label=stars&style=flat&color=blue)
+
+![Profile Views](https://komarev.com/ghpvc/?username=1337party&color=blue&style=flat&label=profile+views)
 
 </div>
 
