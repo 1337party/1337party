@@ -20,6 +20,7 @@ Game developer specializing in Roblox remakes
 - Developer with hands-on project experience
 - Focused on clean, performant code
 - Always working on something new
+- Business inquiries → DM
 
 ---
 
