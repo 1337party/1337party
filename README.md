@@ -39,4 +39,4 @@ Game developer specializing in Roblox remakes
 
 ## Contact
 
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1485916076452745256)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1509443471348334673)
