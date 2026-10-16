@@ -1,6 +1,6 @@
 <div align="center">
 
-# [vxvvxcxvxcvxv](https://github.com/1337party)
+# [vxvvxcxvx](https://github.com/1337party)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&height=40&duration=2000&lines=Taking+freelance+clients;Open+to+freelance+opportunities)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-Game developer specializing in Roblox remakes
+Game developer specializing in Roblox
 
 - Developer with hands-on project experience
 - Focused on clean, performant code
